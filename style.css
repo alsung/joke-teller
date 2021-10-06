@@ -1,10 +1,5 @@
-html {
-    /* prevents padding to prevent extra height or width added to page */
-    box-sizing: border-box;
-}
+/* ROBOT.GIF from Giphy - https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY */
 
-body {
-    margin: 0;
-    /* full height of screen */
-    min-height: 100vh; 
+html {
+  box-sizing: border-box;
 }
